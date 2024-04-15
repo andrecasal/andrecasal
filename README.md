@@ -42,6 +42,14 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 - [The Dark Side of the Grid](https://andrecasal.com/articles/the-dark-side-of-the-grid)
 - [Fluid Space Sizing](https://andrecasal.com/articles/fluid-space-sizing)
 - [Fluid Typography Sizing and Scales](https://andrecasal.com/articles/fluid-typography-sizing-with-modular-scales)
-<!-- BLOG-POST-LIST:START -->
-
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ltEXvyepzpA"><img width="140px" src="http://img.youtube.com/vi/ltEXvyepzpA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ltEXvyepzpA">The 80/20 of Visual Regression Testing with Playwright</a><br/>Apr 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=d8WWrNuF3PI"><img width="140px" src="http://img.youtube.com/vi/d8WWrNuF3PI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=d8WWrNuF3PI">Intro to Mastery for VS Code ⭐️</a><br/>Jun 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=82VnfU8oW0M"><img width="140px" src="http://img.youtube.com/vi/82VnfU8oW0M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=82VnfU8oW0M">Creating Full Stack Components in Remix: A Step-by-Step Guide</a><br/>Feb 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WQyJEvEyvow"><img width="140px" src="http://img.youtube.com/vi/WQyJEvEyvow/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WQyJEvEyvow">Boost Your VS Code Terminal Productivity</a><br/>Jan 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bDrztDBhsrU"><img width="140px" src="http://img.youtube.com/vi/bDrztDBhsrU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bDrztDBhsrU">Top 4 Fonts for Code: The Ultimate Guide for Programmers</a><br/>Jan 12, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
