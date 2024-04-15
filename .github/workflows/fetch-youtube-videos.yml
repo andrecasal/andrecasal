@@ -19,5 +19,5 @@ jobs:
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           date_format: "mmm d, yyyy"
-          template: '- [$title]($url)$newline'
+          template: '$newline- [$title]($url)'
           committer_email: "andre@andrecasal.com"
