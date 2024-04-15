@@ -32,16 +32,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 ### 📸 Latest YouTube videos
 - [The 80/20 of Visual Regression Testing with Playwright](https://youtu.be/ltEXvyepzpA)
 - [How to align components to the edge](https://youtu.be/ygoNRVkTcZA)
-<!-- YOUTUBE-VIDEOS-LIST:START --><table style="width:100%;"><tr><td><a href="https://www.youtube.com/watch?v=ltEXvyepzpA"><img width="140px" src="http://img.youtube.com/vi/ltEXvyepzpA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ltEXvyepzpA">The 80/20 of Visual Regression Testing with Playwright</a><br/>Apr 15, 2024</td></tr></table>
-<table style="width:100%;"><tr><td><a href="https://www.youtube.com/watch?v=d8WWrNuF3PI"><img width="140px" src="http://img.youtube.com/vi/d8WWrNuF3PI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d8WWrNuF3PI">Intro to Mastery for VS Code ⭐️</a><br/>Jun 4, 2023</td></tr></table>
-<table style="width:100%;"><tr><td><a href="https://www.youtube.com/watch?v=82VnfU8oW0M"><img width="140px" src="http://img.youtube.com/vi/82VnfU8oW0M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=82VnfU8oW0M">Creating Full Stack Components in Remix: A Step-by-Step Guide</a><br/>Feb 3, 2023</td></tr></table>
-<table style="width:100%;"><tr><td><a href="https://www.youtube.com/watch?v=WQyJEvEyvow"><img width="140px" src="http://img.youtube.com/vi/WQyJEvEyvow/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WQyJEvEyvow">Boost Your VS Code Terminal Productivity</a><br/>Jan 13, 2023</td></tr></table>
-<table style="width:100%;"><tr><td><a href="https://www.youtube.com/watch?v=bDrztDBhsrU"><img width="140px" src="http://img.youtube.com/vi/bDrztDBhsrU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bDrztDBhsrU">Top 4 Fonts for Code: The Ultimate Guide for Programmers</a><br/>Jan 12, 2023</td></tr></table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->- [The 80/20 of Visual Regression Testing with Playwright](https://www.youtube.com/watch?v=ltEXvyepzpA)
+- [Intro to Mastery for VS Code ⭐️](https://www.youtube.com/watch?v=d8WWrNuF3PI)
+- [Creating Full Stack Components in Remix: A Step-by-Step Guide](https://www.youtube.com/watch?v=82VnfU8oW0M)
+- [Boost Your VS Code Terminal Productivity](https://www.youtube.com/watch?v=WQyJEvEyvow)
+- [Top 4 Fonts for Code: The Ultimate Guide for Programmers](https://www.youtube.com/watch?v=bDrztDBhsrU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
