@@ -32,6 +32,9 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 ### 📸 Latest YouTube videos
 - [The 80/20 of Visual Regression Testing with Playwright](https://youtu.be/ltEXvyepzpA)
 - [How to align components to the edge](https://youtu.be/ygoNRVkTcZA)
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
@@ -39,3 +42,6 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 - [The Dark Side of the Grid](https://andrecasal.com/articles/the-dark-side-of-the-grid)
 - [Fluid Space Sizing](https://andrecasal.com/articles/fluid-space-sizing)
 - [Fluid Typography Sizing and Scales](https://andrecasal.com/articles/fluid-typography-sizing-with-modular-scales)
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
