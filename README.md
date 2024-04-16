@@ -48,3 +48,8 @@ Find me at andre@andrecasal.com
 - [Fluid Typography Sizing and Scales](https://andrecasal.com/articles/fluid-typography-sizing-with-modular-scales)
 - [Remix Data Flow](https://andrecasal.com/articles/remix-data-flow)
 <!-- BLOG-POST-LIST:END -->
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecasal)](https://github.com/anuraghazra/github-readme-stats)
+![André Casal's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecasal&show_icons=true&theme=transparent&rank_icon=github)
