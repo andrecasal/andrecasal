@@ -31,11 +31,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to align components on the edge](https://www.youtube.com/watch?v=ygoNRVkTcZA)
 - [The 80/20 of Visual Regression Testing with Playwright](https://www.youtube.com/watch?v=ltEXvyepzpA)
 - [Intro to Mastery for VS Code ⭐️](https://www.youtube.com/watch?v=d8WWrNuF3PI)
 - [Creating Full Stack Components in Remix: A Step-by-Step Guide](https://www.youtube.com/watch?v=82VnfU8oW0M)
-- [Boost Your VS Code Terminal Productivity](https://www.youtube.com/watch?v=WQyJEvEyvow)
-- [Top 4 Fonts for Code: The Ultimate Guide for Programmers](https://www.youtube.com/watch?v=bDrztDBhsrU)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [Boost Your VS Code Terminal Productivity](https://www.youtube.com/watch?v=WQyJEvEyvow)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
