@@ -44,4 +44,8 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 - [Fluid Space Sizing](https://andrecasal.com/articles/fluid-space-sizing)
 - [Fluid Typography Sizing and Scales](https://andrecasal.com/articles/fluid-typography-sizing-with-modular-scales)
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Side Of The Grid &lpar;and Flexbox&rpar;](https://andrecasal.com/articles/the-dark-side-of-the-grid)
+- [Fluid Space Sizing](https://andrecasal.com/articles/fluid-space-sizing)
+- [Fluid Typography Sizing and Scales](https://andrecasal.com/articles/fluid-typography-sizing-with-modular-scales)
+- [Remix Data Flow](https://andrecasal.com/articles/remix-data-flow)
 <!-- BLOG-POST-LIST:END -->
