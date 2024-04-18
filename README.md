@@ -25,7 +25,7 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ***
 
-### 🧑‍🤝‍🧑 I’m looking for a part-time
+### 🧑‍🤝‍🧑 I’m looking for a full- or part-time
 
 Find me at andre@andrecasal.com
 
