@@ -33,11 +33,11 @@ Find me at andre@andrecasal.com
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Layout components | VerveUI](https://www.youtube.com/watch?v=Tt3w8EtivAY)
 - [How to align components on the edge](https://www.youtube.com/watch?v=ygoNRVkTcZA)
 - [The 80/20 of Visual Regression Testing with Playwright](https://www.youtube.com/watch?v=ltEXvyepzpA)
 - [Intro to Mastery for VS Code ⭐️](https://www.youtube.com/watch?v=d8WWrNuF3PI)
-- [Creating Full Stack Components in Remix: A Step-by-Step Guide](https://www.youtube.com/watch?v=82VnfU8oW0M)
-- [Boost Your VS Code Terminal Productivity](https://www.youtube.com/watch?v=WQyJEvEyvow)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [Creating Full Stack Components in Remix: A Step-by-Step Guide](https://www.youtube.com/watch?v=82VnfU8oW0M)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
