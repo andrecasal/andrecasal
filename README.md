@@ -21,13 +21,9 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 ***
 
 ### 🔭 I’m currently working on
+[LaunchFast](https://launchfast.pro) one command to a fully featured, secure, production-ready starter app that has everything you will ever need from a boilerplate or stack.
+
 [VerveUI](https://verveui.pro/) a UI library for React with complete, composable, production-ready components that consume a beautiful, customizable, production-ready design system.
-
-***
-
-### 🧑‍🤝‍🧑 I’m looking for a full- or part-time
-
-Find me at andre@andrecasal.com
 
 ***
 
