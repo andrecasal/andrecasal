@@ -29,11 +29,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [LaunchFast CLI #boilerplate](https://www.youtube.com/watch?v=nWO9qgwStIA)
 - [Typographical components on the web](https://www.youtube.com/watch?v=FZycW3dGgRs)
 - [Layout components | VerveUI](https://www.youtube.com/watch?v=Tt3w8EtivAY)
 - [How to align components on the edge](https://www.youtube.com/watch?v=ygoNRVkTcZA)
-- [The 80/20 of Visual Regression Testing with Playwright](https://www.youtube.com/watch?v=ltEXvyepzpA)
-- [Intro to Mastery for VS Code ⭐️](https://www.youtube.com/watch?v=d8WWrNuF3PI)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [The 80/20 of Visual Regression Testing with Playwright](https://www.youtube.com/watch?v=ltEXvyepzpA)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
