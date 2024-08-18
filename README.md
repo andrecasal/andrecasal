@@ -29,11 +29,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [A curated list of websitesfor indie hackers ♥️](https://www.youtube.com/watch?v=vHnQ1GLqSLY)
 - [A Day in the Life of a Startup Founder 🚀](https://www.youtube.com/watch?v=KAqC-0kSt_w)
 - [Staying in balance #boilerplate #webdev #starterkit #coding](https://www.youtube.com/watch?v=MjjhSRml7TM)
 - [LaunchFast CLI #boilerplate](https://www.youtube.com/watch?v=nWO9qgwStIA)
-- [Typographical components on the web](https://www.youtube.com/watch?v=FZycW3dGgRs)
-- [Layout components | VerveUI](https://www.youtube.com/watch?v=Tt3w8EtivAY)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [Typographical components on the web](https://www.youtube.com/watch?v=FZycW3dGgRs)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
