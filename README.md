@@ -29,11 +29,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [A curated list of websitesfor indie hackers ♥️](https://www.youtube.com/watch?v=vHnQ1GLqSLY)
+- [From 0€ to 10k€: a Tech Founder&#39;s Journey 🚀](https://www.youtube.com/watch?v=iR0alYblbAo)
+- [A curated list of websites for indie hackers ♥️](https://www.youtube.com/watch?v=vHnQ1GLqSLY)
 - [A Day in the Life of a Startup Founder 🚀](https://www.youtube.com/watch?v=KAqC-0kSt_w)
 - [Staying in balance #boilerplate #webdev #starterkit #coding](https://www.youtube.com/watch?v=MjjhSRml7TM)
-- [LaunchFast CLI #boilerplate](https://www.youtube.com/watch?v=nWO9qgwStIA)
-- [Typographical components on the web](https://www.youtube.com/watch?v=FZycW3dGgRs)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [LaunchFast CLI #boilerplate](https://www.youtube.com/watch?v=nWO9qgwStIA)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
