@@ -29,11 +29,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Daily Grind of a Tech Entrepreneur](https://www.youtube.com/watch?v=wigebj8FNnI)
 - [12 Hours of Marketing: Was It Worth It?](https://www.youtube.com/watch?v=ve2S96_rxcI)
 - [From 0€ to 10k€: a Tech Founder&#39;s Journey 🚀](https://www.youtube.com/watch?v=iR0alYblbAo)
 - [A curated list of websites for indie hackers ♥️](https://www.youtube.com/watch?v=vHnQ1GLqSLY)
-- [A Day in the Life of a Startup Founder 🚀](https://www.youtube.com/watch?v=KAqC-0kSt_w)
-- [Staying in balance #boilerplate #webdev #starterkit #coding](https://www.youtube.com/watch?v=MjjhSRml7TM)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [A Day in the Life of a Startup Founder 🚀](https://www.youtube.com/watch?v=KAqC-0kSt_w)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
