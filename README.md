@@ -29,11 +29,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [0 to production &lpar;in 10 min&rpar; with LaunchFast.pro](https://www.youtube.com/watch?v=05rWfPfpb9Q)
 - [Ever wondered why 20% of your efforts yield 80% of results?](https://www.youtube.com/watch?v=SKWvNyxdCpo)
 - [Daily Grind of a Tech Entrepreneur](https://www.youtube.com/watch?v=wigebj8FNnI)
 - [12 Hours of Marketing: Was It Worth It?](https://www.youtube.com/watch?v=ve2S96_rxcI)
-- [From 0€ to 10k€: a Tech Founder&#39;s Journey 🚀](https://www.youtube.com/watch?v=iR0alYblbAo)
-- [A curated list of websites for indie hackers ♥️](https://www.youtube.com/watch?v=vHnQ1GLqSLY)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [From 0€ to 10k€: a Tech Founder&#39;s Journey 🚀](https://www.youtube.com/watch?v=iR0alYblbAo)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
