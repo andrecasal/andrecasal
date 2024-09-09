@@ -29,11 +29,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Improving the conversion rate 💰](https://www.youtube.com/watch?v=VV2R9OWrPIs)
 - [LaunchFast.pro - Public roadmap 🗺️](https://www.youtube.com/watch?v=c8HpqMaxTks)
 - [LaunchFast.pro Update - Upvote Roadmap Features 🎉](https://www.youtube.com/watch?v=ux7XJPBxIHo)
 - [Product Hunt aftermath 🔥](https://www.youtube.com/watch?v=tAl7Q8sywA4)
-- [LaunchFast is live on Product Hunt 🚀](https://www.youtube.com/watch?v=0RXQuJajUbY)
-- [0 to production &lpar;in 10 min&rpar; with LaunchFast.pro](https://www.youtube.com/watch?v=05rWfPfpb9Q)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [LaunchFast is live on Product Hunt 🚀](https://www.youtube.com/watch?v=0RXQuJajUbY)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
