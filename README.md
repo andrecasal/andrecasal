@@ -29,11 +29,11 @@ Looking forward to reaching and helping more people by sharing my knowledge.
 
 ### 📸 Latest YouTube videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I bet you don&#39;t know how to count 😂](https://www.youtube.com/watch?v=zJzEzrooA7A)
 - [Building LaunchFast in Public: Updates on Landing Page, Affiliate Partnerships &amp; Stripe](https://www.youtube.com/watch?v=WDkVzdPUn-w)
 - [If you&#39;re a tech entrepreneur, you need to hear this](https://www.youtube.com/shorts/P9Dv8878xXc)
 - [Improving the conversion rate 💰](https://www.youtube.com/shorts/VV2R9OWrPIs)
-- [LaunchFast.pro - Public roadmap 🗺️](https://www.youtube.com/shorts/c8HpqMaxTks)
-- [LaunchFast.pro Update - Upvote Roadmap Features 🎉](https://www.youtube.com/watch?v=ux7XJPBxIHo)<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [LaunchFast.pro - Public roadmap 🗺️](https://www.youtube.com/shorts/c8HpqMaxTks)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ***
 
