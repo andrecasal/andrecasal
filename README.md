@@ -1,48 +1,22 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm André Casal
+# Andre Casal
 
-***
+First-principles thinking about code, product, and life.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/andrecasaldev) ![GitHub Sponsors](https://img.shields.io/github/sponsors/andrecasal)
- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAVNclj3DbLvdJE5CUHfumg)
+I question defaults, discard inherited assumptions, and reconstruct from the ground up. Most tech content recycles best practices. I reason from first principles — the kind of thinking that compounds over years, not the kind that expires in months.
 
+### Currently building
 
-A Full-Stack Design Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the toolbox below.
-I create tech content, mostly about Web Development, but I also talk about topics other than coding. I'd advise you to [subscribe](https://andrecasal.com/articles) to stay up-to-date!
+**[LaunchFast](https://launchfast.pro)** — Production-ready TypeScript infrastructure for web apps. Ship your first product on a codebase worth keeping.
 
-I managed to create an online presence with my Blog, Posts on X, and YouTube channel, which are accessed by more than 50000 people monthly.
-Looking forward to reaching and helping more people by sharing my knowledge.
+### Positions I hold
 
-***
+- **Functional programming is the correct default.** OOP was a wrong turn. State is data, functions transform data. Not preference — first-principles reasoning about computation.
+- **Correctness over speed.** Founding decisions compound. A production-ready codebase needs the right architecture from day one, not a fast prototype patched forever.
+- **Depth over volume.** One essay that took weeks of research is worth more than a year of hot takes.
+- **Systems beat willpower.** If it requires heroics, it's misdesigned. Constraints produce better outcomes than motivation.
 
-### 🧰 Toolbox
-     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="logo" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original-wordmark.svg" alt="logo" width="50" height="50" />
+### Writing
 
-***
+Long-form essays at **[andrecasal.com](https://andrecasal.com)** — first-principles reconstructions of topics in software, product, and life.
 
-### 🔭 I’m currently working on
-[LaunchFast](https://launchfast.pro) one command to a fully featured, secure, production-ready starter app that has everything you will ever need from a boilerplate or stack.
-
-[VerveUI](https://verveui.pro/) a UI library for React with complete, composable, production-ready components that consume a beautiful, customizable, production-ready design system.
-
-***
-
-### 📸 Latest YouTube videos
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [I bet you don&#39;t know how to count 😉](https://www.youtube.com/watch?v=zJzEzrooA7A)
-- [Building LaunchFast in Public: Updates on Landing Page, Affiliate Partnerships &amp; Stripe](https://www.youtube.com/watch?v=WDkVzdPUn-w)
-- [If you&#39;re a tech entrepreneur, you need to hear this](https://www.youtube.com/shorts/P9Dv8878xXc)
-- [Improving the conversion rate 💰](https://www.youtube.com/shorts/VV2R9OWrPIs)
-- [LaunchFast.pro - Public roadmap 🗺️](https://www.youtube.com/shorts/c8HpqMaxTks)<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-***
-
-### ✍️ Latest Blog Articles
-<!-- BLOG-POST-LIST:START -->
-- [Stripe from First Principles](https://andrecasal.com/essays/stripe-from-first-principles)
-<!-- BLOG-POST-LIST:END -->
-
-***
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecasal)](https://github.com/anuraghazra/github-readme-stats)
-![André Casal's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecasal&show_icons=true&theme=transparent&rank_icon=github)
+Daily posts on **[X / Twitter](https://x.com/andrecasaldev)** — reasoning applied in real time.
